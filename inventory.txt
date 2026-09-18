@@ -1,0 +1,5 @@
+Paracetamol,50,12/2026
+Amoxicillin,8,06/2025
+Cetirizine,4,09/2025
+Ibuprofen,25,11/2026
+Azithromycin,6,03/2025
